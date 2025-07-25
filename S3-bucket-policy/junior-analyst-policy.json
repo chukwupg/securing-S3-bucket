@@ -1,0 +1,16 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+          "AWS": "arn:aws:iam::148670371083:user/junior-analyst"
+      },
+      "Action": "s3:*",
+      "Resource": [
+          "arn:aws:s3:::bonkina-bucket",
+          "arn:aws:s3:::bonkina-bucket/*"
+      ]
+    }
+  ]
+}
