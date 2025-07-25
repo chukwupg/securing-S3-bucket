@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project is part of my **#100DaysOfCybersecurity Challenge (Day 11)**.  
-The goal is to understand how **misconfigured S3 buckets** and **overly permissive IAM policies** can lead to security issues — and how to fix them following the **principle of least privilege**.
+The goal is to understand how **misconfigured S3 buckets** and **overly permissive IAM policies** can lead to security issues, and how to fix them following the **principle of least privilege**.
 
 ---
 
